@@ -1,0 +1,16 @@
+/* шапка */
+.header-link {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 1.20;
+    color: #FFFFFF;
+}
+/* hero */
+.hero-title {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-size: 70px;
+    line-height: 1.21;
+    color: #FFFFFF;
+}
