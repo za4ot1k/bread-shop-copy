@@ -83,9 +83,49 @@ color: #FFFFFF;
 }
 
 .benefit-text {
-    font-family: 'Inter';
     font-weight: 500;
     font-size: 24px;
     line-height: 1.20;
     color: #FFFFFF;
+}
+/* services */
+
+.services-topic{
+    font-family: 'Italiana';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #D9D9D9;
+}
+.services-text{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.footer-location{
+    font-family: 'Italiana';
+font-weight: 400;
+font-size: 48px;
+line-height: 57px;
+color: #FFFFFF;
+}
+.footer-about{
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+.footer-telephone{
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.footer-link{
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
 }
