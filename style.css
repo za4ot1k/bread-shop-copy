@@ -1,0 +1,211 @@
+body{
+    background: #202023;
+}
+
+li{
+    list-style-type: none;
+}
+
+.header-link {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.hero-bakery {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-size: 70px;
+    line-height: 85px;
+    color: #FFFFFF;
+}
+
+.about-bakery {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 25px;
+
+    color: #FFFFFF;
+}
+
+.hero-btn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    background: #B47B48;
+border-radius: 17px;
+}
+
+.shop-price {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.shop-cockies {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.shop-btn {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #C85312;
+
+}
+
+
+.menu-topic {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;
+}
+
+.menu-bread {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25.92px;
+    line-height: 31px;
+    color: #FFFFFF;
+}
+
+.menu-btn{
+    background: #B47B48;
+border-radius: 17px;
+}
+
+.recipe-topic {
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    color: #FFFFFF;
+}
+
+.recipe-ingredients {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.services-topic {
+    font-family: 'Italiana';
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #D9D9D9;
+}
+
+.services-text {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.footer-location {
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #FFFFFF;
+}
+
+.footer-about {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+}
+
+.footer-telephone {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.footer-link {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.footer-about {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+
+.footer-text {
+    font-family: 'Inter';
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer-about-wish {
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.footer-about-bakery {
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.footer-about-text {
+    font-family: 'Inter';
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
