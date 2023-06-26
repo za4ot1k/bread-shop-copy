@@ -1,0 +1,13 @@
+body{
+    font-family: 'Inter';
+    background: #202023;
+    line-height: 1.21;
+    color: #FFFFFF;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+    width: 1140px;
+    outline: solid red;
+}

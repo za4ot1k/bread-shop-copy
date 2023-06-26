@@ -1,8 +1,5 @@
-body{
-    font-family: 'Inter';
-    background: #202023;
-    line-height: 1.21;
-    color: #FFFFFF;
+.header {
+    padding: 50px 0 71px;
 }
 
 .header-link {
@@ -10,6 +7,10 @@ body{
     font-size: 24px;
     line-height: 1.21;
     color: #FFFFFF;
+}
+
+.hero {
+    padding-bottom: 125px;
 }
 
 .hero-bakery {
@@ -32,6 +33,10 @@ body{
 border-radius: 17px;
 }
 
+.shop-section {
+    padding-bottom: 36px;
+}
+
 .shop-price {
     font-weight: 200;
     font-size: 24px;
@@ -52,6 +57,9 @@ border-radius: 17px;
 
 }
 
+.about-menu {
+    padding-bottom: 163px;
+}
 
 .menu-topic {
     font-weight: 100;
@@ -72,6 +80,10 @@ font-size: 25.92px;
 line-height: 1.19;
 }
 
+.recipe {
+    padding-bottom: 103x;
+}
+
 .recipe-topic {
     font-family: 'Italiana';
     font-weight: 400;
@@ -82,6 +94,10 @@ line-height: 1.19;
 .recipe-ingredients {
     font-weight: 500;
     font-size: 24px;
+}
+
+.services {
+    padding-bottom: 52px;
 }
 
 .services-topic {
@@ -95,6 +111,10 @@ line-height: 1.19;
 .services-text {
     font-weight: 700;
     font-size: 24px;
+}
+
+.footer {
+    padding: 66px 0 44px;
 }
 
 .footer-location {
