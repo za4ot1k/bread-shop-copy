@@ -1,3 +1,4 @@
+
 .header {
     padding: 50px 0 71px;
 }
@@ -6,9 +7,12 @@
     font-weight: 200;
     font-size: 24px;
     line-height: 1.21;
-    color: #FFFFFF;
+    color: #ffffff;
 }
-
+.header-list {
+    display: flex;
+    gap: 25px;
+}
 .hero {
     padding-bottom: 125px;
 }
@@ -16,12 +20,17 @@
 .hero-bakery {
     font-weight: 200;
     font-size: 70px;
+    max-width: 561px;
+    margin-bottom: 33px;
+
 }
 
 .about-bakery {
     font-weight: 300;
     font-size: 21px;
     line-height: 1.19;
+    max-width: 570px;
+    margin-bottom: 33px;
 }
 
 .hero-btn {
@@ -31,6 +40,7 @@
     color: #FFFFFF;
     background: #B47B48;
 border-radius: 17px;
+padding: 16px 34px;
 }
 
 .shop-section {
