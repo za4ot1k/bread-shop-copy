@@ -1,181 +1,208 @@
-
 .header {
-    padding: 50px 0 71px;
+  padding: 50px 0 71px;
 }
 
 .header-link {
-    font-weight: 200;
-    font-size: 24px;
-    line-height: 1.21;
-    color: #ffffff;
+  font-weight: 200;
+  font-size: 24px;
+  line-height: 1.21;
+  color: #ffffff;
 }
 .header-list {
-    display: flex;
-    gap: 25px;
+  display: flex;
+  gap: 25px;
 }
 .hero {
-    padding-bottom: 125px;
+  padding-bottom: 125px;
 }
 
 .hero-bakery {
-    font-weight: 200;
-    font-size: 70px;
-    max-width: 561px;
-    margin-bottom: 33px;
-
+  font-weight: 200;
+  font-size: 70px;
+  max-width: 561px;
+  margin-bottom: 33px;
 }
 
 .about-bakery {
-    font-weight: 300;
-    font-size: 21px;
-    line-height: 1.19;
-    max-width: 570px;
-    margin-bottom: 33px;
+  font-weight: 300;
+  font-size: 21px;
+  line-height: 1.19;
+  max-width: 570px;
+  margin-bottom: 33px;
 }
 
 .hero-btn {
-    font-weight: 300;
-    font-size: 24px;
-    line-height: 1.21;
-    color: #FFFFFF;
-    background: #B47B48;
-border-radius: 17px;
-padding: 16px 34px;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 1.21;
+  color: #ffffff;
+  background: #b47b48;
+  border-radius: 17px;
+  padding: 16px 34px;
 }
 
 .shop-section {
-    padding-bottom: 36px;
+  padding-bottom: 36px;
+  display: flex;
+}
+
+.shop-list {
+  display: flex;
+  justify-content: space-between;
 }
 
 .shop-price {
-    font-weight: 200;
-    font-size: 24px;
+  margin-bottom: 13px;
 }
 
 .shop-cockies {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.88;
+  margin-bottom: 35px;
+  line-height: normal;
 }
 
 .shop-btn {
-    font-weight: 900;
-    font-size: 16px;
-    line-height: 1.88;
-    color: #FFFFFF;
-    background-color: #C85312;
+  padding: 10px 22px;
+}
 
+.shop-item {
+  outline: 1px solid green;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  max-width: 310px;
+  padding-bottom: 44px;
+  padding-top: 51px;
+  text-align: center;
+}
+
+.shop-price {
+  font-weight: 200;
+  font-size: 24px;
+}
+
+.shop-cockies {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.88;
+}
+
+.shop-btn {
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 1.88;
+  color: #ffffff;
+  background-color: #c85312;
 }
 
 .about-menu {
-    padding-bottom: 163px;
+  padding-bottom: 163px;
 }
 
 .menu-topic {
-    font-weight: 100;
-    font-size: 64px;
-    line-height: 1.20;
+  font-weight: 100;
+  font-size: 64px;
+  line-height: 1.2;
 }
 
 .menu-bread {
-    font-weight: 800;
-    font-size: 25.92px;
-    line-height: 1.19;
+  font-weight: 800;
+  font-size: 25.92px;
+  line-height: 1.19;
 }
 
-.menu-btn{
-    background: #B47B48;
-border-radius: 17px;
-font-size: 25.92px;
-line-height: 1.19;
+.menu-btn {
+  background: #b47b48;
+  border-radius: 17px;
+  font-size: 25.92px;
+  line-height: 1.19;
 }
 
 .recipe {
-    padding-bottom: 103x;
+  padding-bottom: 103x;
 }
 
 .recipe-topic {
-    font-family: 'Italiana';
-    font-weight: 400;
-    font-size: 64px;
-    line-height: 1.17;
+  font-family: "Italiana";
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 1.17;
 }
 
 .recipe-ingredients {
-    font-weight: 500;
-    font-size: 24px;
+  font-weight: 500;
+  font-size: 24px;
 }
 
 .services {
-    padding-bottom: 52px;
+  padding-bottom: 52px;
 }
 
 .services-topic {
-    font-family: 'Italiana';
-    font-weight: 400;
-    font-size: 48px;
-    line-height: 1.88;
-    color: #D9D9D9;
+  font-family: "Italiana";
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.88;
+  color: #d9d9d9;
 }
 
 .services-text {
-    font-weight: 700;
-    font-size: 24px;
+  font-weight: 700;
+  font-size: 24px;
 }
 
 .footer {
-    padding: 66px 0 44px;
+  padding: 66px 0 44px;
 }
 
 .footer-location {
-    font-family: 'Italiana';
-    font-weight: 400;
-    font-size: 48px;
-    line-height: 1.88;
+  font-family: "Italiana";
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 1.88;
 }
 
 .footer-about {
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 1.88;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.88;
 }
 
 .footer-telephone {
-    font-weight: 300;
-    font-size: 24px;
+  font-weight: 300;
+  font-size: 24px;
 }
 
 .footer-link {
-    font-weight: 300;
-    font-size: 24px;
-    color: #FFFFFF;
+  font-weight: 300;
+  font-size: 24px;
+  color: #ffffff;
 }
 
 .footer-about {
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 1.2;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 1.2;
 }
 
 .footer-text {
-    font-weight: 200;
-    font-size: 24px;
-    text-align: center;
+  font-weight: 200;
+  font-size: 24px;
+  text-align: center;
 }
 
 .footer-about-wish {
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 1.2;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.2;
 }
 
 .footer-about-bakery {
-    font-weight: 300;
-    font-size: 24px;
-    text-align: center;
+  font-weight: 300;
+  font-size: 24px;
+  text-align: center;
 }
 
 .footer-about-text {
-    font-weight: 300;
-    font-size: 24px;
+  font-weight: 300;
+  font-size: 24px;
 }
